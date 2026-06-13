@@ -1,0 +1,18 @@
+[project]
+name = "autoresearch-4-ranking"
+version = "0.1.0"
+description = "Learning to Rank — autoresearch experiment on synthetic user-item interaction data"
+requires-python = ">=3.12"
+dependencies = [
+    "lightgbm>=4.0",
+    "numpy>=1.26",
+    "pandas>=2.1",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+]
