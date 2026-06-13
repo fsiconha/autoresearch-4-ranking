@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "Recommendation System": {
+      "source": "aj-geddes/useful-ai-prompts",
+      "sourceType": "github",
+      "skillPath": "skills/recommendation-system/SKILL.md",
+      "computedHash": "74bcfdf42bfeaeaa5b82181563f34c7d844684feb1001caa6de98a1d8a215aef"
+    },
+  }
+}
