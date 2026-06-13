@@ -7,17 +7,5 @@
       "skillPath": "skills/recommendation-system/SKILL.md",
       "computedHash": "74bcfdf42bfeaeaa5b82181563f34c7d844684feb1001caa6de98a1d8a215aef"
     },
-    "recommendation-canvas": {
-      "source": "deanpeters/product-manager-skills",
-      "sourceType": "github",
-      "skillPath": "skills/recommendation-canvas/SKILL.md",
-      "computedHash": "6ea7ad93d9c04c3d77d4fb2f4efce96b234727d7abdaf9a4bbef07482768964c"
-    },
-    "recsys-pipeline-architect": {
-      "source": "wshobson/agents",
-      "sourceType": "github",
-      "skillPath": "plugins/machine-learning-ops/skills/recsys-pipeline-architect/SKILL.md",
-      "computedHash": "bbc6967af755bb29e1974ca919e4aec20319e083882c51325003b95f4bcdb548"
-    }
   }
 }
